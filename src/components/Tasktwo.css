@@ -1,0 +1,29 @@
+body{
+    background-color: #EB6664
+}
+ .two{
+    text-align: center;
+   font-style: normal;
+ 
+   color: aliceblue;
+   font-size: 30px;
+  position: relative;
+  top: 120px;
+ }
+
+ 
+.Icon{
+    color: white;
+
+}
+#mab{
+   color: aqua;
+}
+#icon{
+    color: yellow;
+}
+#p{
+    font-size: 14px;
+    position: relative;
+   bottom: 23px;
+}

@@ -1,11 +1,12 @@
 
 import './App.css';
-import Mabu from './components/01/Mabu';
+import Tasktwo from './components/Tasktwo';
+
 function App() {
   return (
     <div className="App">
-      
-      <Mabu/>
+      <Tasktwo/>
+    
     </div>
   );
 }
